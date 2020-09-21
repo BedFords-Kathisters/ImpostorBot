@@ -1,0 +1,27 @@
+{
+  "name": "impostorbot",
+  "version": "1.0.0",
+  "description": "Among Us VoiceChat Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BedFords-Kathisters/ImpostorBot.git"
+  },
+  "keywords": [
+    "bot",
+    "amongus"
+  ],
+  "author": "ML",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BedFords-Kathisters/ImpostorBot/issues"
+  },
+  "homepage": "https://github.com/BedFords-Kathisters/ImpostorBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1"
+  }
+}
